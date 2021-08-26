@@ -1,0 +1,9 @@
+Para vrificar instalación de Git:
+>git --version
+
+>git init
+
+
+Autenticación en GitHub:
+>git config user.name "Flor Salinas"
+>git config user.email "flor.salinas.bailon@cftmail.cl"
